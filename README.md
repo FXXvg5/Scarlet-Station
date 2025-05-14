@@ -1,21 +1,15 @@
-<p align="center"> <img alt="Space Station 14" width="1280" height="300" src="https://i.imgur.com/2nqz4IN.jpeg" /></p>
 
-Это форк из репозитория Goob Station под названием Reserve Station. Чтобы предотвратить форк RobustToolbox, клиент и сервер загружают пакет «content». Этот контент-пак содержит все необходимое для игры на одном конкретном сервере - это контент-пак для Goob Station.
+
+Это Форк Резерва с Более Разнообразными Антагонистами и Ролями, Оригинал by GOOB Station/
 
 Если вы хотите разместить или создать контент для SS14, перейдите в репозиторий [Space Station 14](https://github.com/space-wizards/space-station-14), так как он содержит как RobustToolbox, так и контент-пак для разработки новых контент-паков и является базой для вашего форка.
 
 ## Ссылки
-
-[Дискорд Резерва](https://discord.gg/WXZvqzZ2Fc) | [Дискорд Губов](https://discord.gg/goobstation) | [Дискорд разработки Губа](https://discord.gg/zXk2cyhzPN)
+| [Дискорд Губов](https://discord.gg/goobstation) | [Дискорд разработки Губа](https://discord.gg/zXk2cyhzPN)
 
 ## Документация/Вики
 
 На сайте [Goob Station](https://docs.goobstation.com/) есть документация по содержанию GS14, движку, дизайну игры и многому другому. На нем также есть много ресурсов для новых участников проекта.
-
-## Вклад
-
-Мы рады принять вклад от любого человека. Заходите на [Сервер разработки](https://discord.gg/zXk2cyhzPN), если хотите помочь. Не стесняйтесь проверять [список проблем](https://github.com/Goob-Station/Goob-Station/issues), которые необходимо решить, и любой может их подхватить. Не бойтесь просить о помощи!
-Хотя следование [Space Station 14 contributions guidelines](https://docs.spacestation14.com/en/general-development/codebase-info/pull-request-guidelines.html) не является обязательным для Goob Station, мы рекомендуем ознакомиться с ними, чтобы узнать о лучших практиках.
 
 ## Сборка
 
